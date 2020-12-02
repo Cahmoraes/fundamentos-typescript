@@ -1,0 +1,1 @@
+export default <T = string>(a: T, b: T) => a === b
